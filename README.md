@@ -7,6 +7,8 @@ The Jupyter notebook with standard cnn model can be found [here](https://github.
 The final Jupyter notebook file with vgg16 model for transfer learning is [here](https://github.com/abishekarun/Cifar10/blob/master/cifar10_cnn_vgg16.ipynb) and vgg19 model for transfer learning is 
 [here](https://github.com/abishekarun/Cifar10/blob/master/cifar10_cnn_vgg19.ipynb).
 
+![CIFAR10](https://alexisbcook.github.io/assets/cifar10.png)
+
 The resources that helped me are:
 
 + [Neural networks and Deep learning](http://neuralnetworksanddeeplearning.com/chap1.html)
